@@ -1,1 +1,2 @@
-This is a To-do-list Project.
+This is a To-do-list project.
+
